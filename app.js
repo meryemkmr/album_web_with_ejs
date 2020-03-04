@@ -21,7 +21,7 @@ app.set('views', 'views')
 //speakers.js
 //
 app.use(require('./routes/index'))
-app.use(require('./routes/speakers'))
+app.use(require('./routes/albums'))
 
 
 
